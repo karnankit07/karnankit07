@@ -1,0 +1,6 @@
+- 👋 Hi, I’m ANKIT KUMAR
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning Machine Learning 
+- 💞️ I’m looking to collaborate on various projects of Machine Learning and Deep Learning
+- 📫 You can reach me at ankit07123@gmail.com 
+- Social Media -  https://www.instagram.com/ankit_karn07/ , https://www.linkedin.com/in/ankit-kumar-9a90b1151/
