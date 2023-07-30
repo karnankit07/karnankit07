@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **ankit07123@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1XZe07OWT3rZT6Pnzjyg2_iUKtllFv3DO/view?usp=share_link](https://drive.google.com/file/d/1XZe07OWT3rZT6Pnzjyg2_iUKtllFv3DO/view?usp=share_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1XZe07OWT3rZT6Pnzjyg2_iUKtllFv3DO/view?usp=share_link](https://drive.google.com/file/d/1Dm4kBtFy-Zam4y8lW1_QY4fvd2C-nz3s/view?usp=sharing)
 
 - ⚡ Fun fact **The data never lies, but it can be misleading.**
 
