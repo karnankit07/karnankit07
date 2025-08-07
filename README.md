@@ -1,11 +1,23 @@
 <h1 align="center">Hi 👋, I'm Ankit Kumar</h1>
-<h3 align="center">A passionate Data Science enthusiast from India</h3>
+<h3 align="center">A curious and hands-on tech enthusiast from India — passionate about **building things that work**, solving real-world problems, and learning by doing.</h3>
 <img align="right" alt = "Data Science" width = "400" src = "https://www.cloudyml.com/wp-content/uploads/2022/06/data-analytics-services-image.gif">
-- 🌱 I’m currently learning **Data Science, Machine Learning, Statistical Analysis, Predictive Modelling, Deep Learning**
+### 🚀 Currently Exploring:
+- Product Thinking + Execution
+- Data Science & Machine Learning
+- Real-time problem solving through side projects
+- Tools for automation, experimentation, and fast iteration
+
+### 🛠️ Tools & Tech I Use:
+Python • SQL • Pandas • NumPy • Scikit-learn • TensorFlow • PyTorch  
+OpenCV • Flask • MongoDB • MySQL • GCP • Git • Heroku • Docker  
+HTML5 • CSS3 • C • C++ • Seaborn • Matplotlib
 
 - 👨‍💻 All of my projects are available at [https://sites.google.com/view/ankit-kumar-portfolio/home](https://sites.google.com/view/ankit-kumar-portfolio/home)
 
-- 💬 Ask me about **Python, ML**
+- ### 📍 Goals for 2025
+- Contribute to fast-moving product teams  
+- Learn from zero-to-one product launches  
+- Improve problem-solving through real-world exposure 
 
 - 📫 How to reach me **ankit07123@gmail.com**
 
